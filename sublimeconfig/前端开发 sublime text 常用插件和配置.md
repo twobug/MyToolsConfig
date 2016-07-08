@@ -123,6 +123,8 @@ javascript ,jQuery , Bootstrap 等js库的自动补全。该插件的特点就�
 
 ###7.[DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 这个插件可以非常智能对js文件添加注释,这个非常的方便。
+Press Tab to move forward through the fields, press Shift+Tab to move back through the fields.
+Press space or shift+enter after an opening /** to insert an inline docblock.
 参考一张官网的截图：
 
 ![截图](http://img.blog.csdn.net/20160107112942174)
