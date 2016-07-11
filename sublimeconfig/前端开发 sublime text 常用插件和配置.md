@@ -4,6 +4,18 @@
 
 此文件目录中文件主要是关于`sublime`的插件配置，快捷键配置，主题和字体配置。
 
+###配置
+
+Sublime Text -> Preferences -> Settings - User，推荐一些配置：
+
+"translate_tabs_to_spaces": true 开启自动将Tab替换为空格
+"trim_trailing_white_space_on_save": true 开启自动删除行末空格
+"ensure_newline_at_eof_on_save": true 开启保存文件时在文件末尾保留一个空行
+"save_on_focus_lost": true 开启文件失去焦点立即保存
+"font_size": 18 设置字体大小，默认10
+"highlight_line": true 开启光标所在行高亮
+"bold_folder_labels": true 开启侧边栏文件夹名显示加粗
+
 ###插件列表
 所有插件都可以使用Package Control安装，具体的安装方法可以自行谷歌安装，不在本文的介绍范围之内。也可以是使用git 手动安装。
 
